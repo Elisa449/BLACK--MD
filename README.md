@@ -1,2 +1,2 @@
 # BLACK-MD
-😇❤️ᴛʜɪs ɪs ʙʟᴀᴄᴋ-ᴍᴅ ᴛᴇᴄʜ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴍᴀɴᴅᴀ 2025 ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ😇
+Black Md V3 In Poverful Whatsapp Bot ⚙️ In Srilanka 🇱🇰 Button NonButton 🔢 Movie Download 🍟📂 More Download Comande 📥 And 200+ More Comande And Custumis Settings And more
