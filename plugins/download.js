@@ -178,7 +178,7 @@ cmd({
       + `┃▢ *ғɪʟᴇ ɴᴀᴍᴇ:* ${file_name}\n`
       + `┃▢ *ғɪʟᴇ ᴛʏᴘᴇ:* ${mime_type}\n`
       + `╰═════════════════❐\n\n`
-      + `> *Powered by Your Botname🎐*`;
+      + `> *Powered by BLACK-MD🎐*`;
 
     await conn.sendMessage(from, {
       document: { url: dl_link },
